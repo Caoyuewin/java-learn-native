@@ -1,3 +1,7 @@
+package basis;
+
+// 只有java.lang 下的包不需要导包
+
 public class MyJavaBean {
     private String name;
     private int age;
